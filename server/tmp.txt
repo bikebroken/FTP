@@ -1,0 +1,6 @@
+-rwxrwxr-x 1 carbon carbon 41360 8月  22 18:18 ftserve
+-rw-rw-r-- 1 carbon carbon  8226 8月  22 18:18 ftserve.c
+-rw-rw-r-- 1 carbon carbon   430 8月  22 15:28 ftserve.h
+-rw-rw-r-- 1 carbon carbon 43616 8月  22 18:18 ftserve.o
+-rwxrwxrwx 1 carbon carbon   288 8月  28  2016 makefile
+-rw-rw-r-- 1 carbon carbon     0 8月  22 21:08 tmp.txt
